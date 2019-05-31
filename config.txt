@@ -1,5 +1,5 @@
 owner=490871722011131935
-prefix=1
+prefix=2
 game=2play|#PG.Community
 stayinchannel=false
 songinstatus=false
